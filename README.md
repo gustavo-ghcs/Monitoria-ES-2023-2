@@ -22,4 +22,4 @@
 ## :fairy: Lista de estudantes
 
 - [Douglas Araújo](https://github.com/thedouglasaraujo) :computer:
--
+- [Guilherme Lopes](https://github.com/guilopesrbc) :rocket:
