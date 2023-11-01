@@ -25,3 +25,4 @@
 - [Guilherme Lopes](https://github.com/guilopesrbc) :rocket:
 - [Ana Júlia](https://github.com/AnaJulia22) :fairy:
 - [Matheus Dalia](https://github.com/MatheusDalia) :computer:
+- [Lucas Luis](https://github.com/LucasLuis-Dev) :rocket:
