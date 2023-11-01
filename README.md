@@ -26,3 +26,4 @@
 - [Ana Júlia](https://github.com/AnaJulia22) :fairy:
 - [Matheus Dalia](https://github.com/MatheusDalia) :computer:
 - [Lucas Luis](https://github.com/LucasLuis-Dev) :rocket:
+- [Ingrid Freire](https://https://github.com/ingridfsl) :ghost:
