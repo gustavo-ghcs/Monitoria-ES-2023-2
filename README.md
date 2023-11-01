@@ -26,5 +26,6 @@
 - [Ana Júlia](https://github.com/AnaJulia22) :fairy:
 - [Matheus Dalia](https://github.com/MatheusDalia) :computer:
 - [Lucas Luis](https://github.com/LucasLuis-Dev) :rocket:
+- [Gabriel Aragão](https://github.com/gabrielaragao01) :banana:
+- [Bruno Moreira](https://github.com/brunom764) :computer:
 - [Hítalo Nascimento](https://github.com/HitaloNasc) :nerd_face:
-
