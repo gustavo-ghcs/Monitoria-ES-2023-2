@@ -23,3 +23,4 @@
 
 - [Douglas Araújo](https://github.com/thedouglasaraujo) :computer:
 - [Guilherme Lopes](https://github.com/guilopesrbc) :rocket:
+- [Ana Júlia](https://github.com/AnaJulia22) :fairy:
