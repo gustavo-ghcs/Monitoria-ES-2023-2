@@ -30,3 +30,4 @@
 - [Bruno Moreira](https://github.com/brunom764) :computer:
 - [Hítalo Nascimento](https://github.com/HitaloNasc) :nerd_face:
 - [Gabriel Alves](https://github.com/gaba23) :computer:
+- [Ingrid Freire](https://github.com/ingridfsl) :ghost:
