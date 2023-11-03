@@ -31,3 +31,4 @@
 - [Hítalo Nascimento](https://github.com/HitaloNasc) :nerd_face:
 - [Gabriel Alves](https://github.com/gaba23) :computer:
 - [Ingrid Freire](https://github.com/ingridfsl) :ghost:
+- [Maria Clara Barretto](https://github.com/clarabarretto) :mirror_ball:
