@@ -32,3 +32,4 @@
 - [Gabriel Alves](https://github.com/gaba23) :computer:
 - [Ingrid Freire](https://github.com/ingridfsl) :ghost:
 - [Maria Clara Barretto](https://github.com/clarabarretto) :mirror_ball:
+- [Geydson Renan](https://github.com/geydsonrenan) :nerd_face:
