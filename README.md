@@ -35,4 +35,3 @@
 - [Geydson Renan](https://github.com/geydsonrenan) :nerd_face:
 - [Antonio Lima](https://github.com/antoniohslima) :trollface: 
 - [Katharian Abrahel](https://github.com/katharianabrahel) :ghost:
-- [Lucas Gabriel](https://github.com/LucasGaab) :sunglasses:
