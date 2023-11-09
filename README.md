@@ -36,3 +36,4 @@
 - [Antonio Lima](https://github.com/antoniohslima) :trollface: 
 - [Katharian Abrahel](https://github.com/katharianabrahel) :ghost:
 - [Lucas Gabriel](https://github.com/LucasGaab) :sunglasses:
+- [Rodrigo Barbosa](https://github.com/RodrigoBarbosaa) :cowboy:
