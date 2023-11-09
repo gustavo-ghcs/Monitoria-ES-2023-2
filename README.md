@@ -37,3 +37,4 @@
 - [Katharian Abrahel](https://github.com/katharianabrahel) :ghost:
 - [Lucas Gabriel](https://github.com/LucasGaab) :sunglasses:
 - [Rodrigo Barbosa](https://github.com/RodrigoBarbosaa) :cowboy:
+- [Alex Ramos](https://github.com/Alexramoss) :star_struck:
