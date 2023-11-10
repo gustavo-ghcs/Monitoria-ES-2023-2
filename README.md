@@ -39,3 +39,4 @@
 - [Rodrigo Barbosa](https://github.com/RodrigoBarbosaa) :cowboy:
 - [Alex Ramos](https://github.com/Alexramoss) :star_struck:
 - [Allyson Ryan](https://github.com/AllysonRyanE) :neckbeard:
+- [Diogo Nogueira](https://github.com/DiogoNogueiraLima) 🔠
