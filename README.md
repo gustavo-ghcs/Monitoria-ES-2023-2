@@ -41,4 +41,4 @@
 - [Allyson Ryan](https://github.com/AllysonRyanE) :neckbeard:
 - [Diogo Nogueira](https://github.com/DiogoNogueiraLima) 🔠
 - [Mariana Amorim](https://github.com/mrbsa) :cupid:
-
+- [Hallan](https://github.com/hallanangelo) :computer:
