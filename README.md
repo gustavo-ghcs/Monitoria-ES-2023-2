@@ -43,3 +43,4 @@
 - [Mariana Amorim](https://github.com/mrbsa) :cupid:
 - [Hallan](https://github.com/hallanangelo) :computer:
 - [Erick Daniel](https://github.com/erickdan1) :space_invader:
+- [Otavio Augusto] (https://github.com/Otavio574/)
