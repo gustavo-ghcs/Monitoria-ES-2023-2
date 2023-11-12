@@ -45,3 +45,4 @@
 - [Erick Daniel](https://github.com/erickdan1) :space_invader:
 - [Otavio Augusto](https://github.com/otavio574) :computer:
 - [Jorge Freitas](https://github.com/jorgelcff) 👊
+ [Felipe Gusmão](https://github.com/felipevgusmao) :rocket:
