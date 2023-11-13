@@ -46,3 +46,4 @@
 - [Otavio Augusto](https://github.com/otavio574) :computer:
 - [Jorge Freitas](https://github.com/jorgelcff) 👊
 - [Felipe Gusmão](https://github.com/felipevgusmao) :rocket:
+- [Maiara Lira](https://github.com/MaiLira) :octopus:
