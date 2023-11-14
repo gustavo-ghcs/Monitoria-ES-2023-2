@@ -49,5 +49,7 @@
 - [Felipe Gusmão](https://github.com/felipevgusmao) :rocket:
 - [Maiara Lira](https://github.com/MaiLira) :octopus:
 - [Mateus Silva](https://github.com/Mateus003) 🤠
-- [Daniel Beltrão Zamboni](https://github.com/Daniel412201) 💀
+- [Daniel Beltrão Zamboni](https://github.com/Daniel412201) 💀 
+- [Luis Filipe Vasconcelos](https://github.com/luisfv10) ✋ 
 - [Renan Martiniano Santana de Lima](https://github.com/RenanMSL)
+
