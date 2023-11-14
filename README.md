@@ -52,4 +52,5 @@
 - [Daniel Beltrão Zamboni](https://github.com/Daniel412201) 💀 
 - [Luis Filipe Vasconcelos](https://github.com/luisfv10) ✋ 
 - [Renan Martiniano Santana de Lima](https://github.com/RenanMSL)
+- [Melk Victor](https://github.com/MelkVictor)
 
